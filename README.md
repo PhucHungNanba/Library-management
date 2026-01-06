@@ -80,9 +80,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact  
 For questions or support, please contact:  
-- **Your Name**  
-- Email: [son2522004@gmail.com](mailto:son2522004@gmail.com)  
-- GitHub: [dobason](https://github.com/dobason)  
+- Email: [huynhphuchung3001@gmail.com](mailto:huynhphuchung3001@gmail.com)  
+- GitHub: [PhucHungNanba](https://github.com/PhucHungNanba)  
 
 ---
 
