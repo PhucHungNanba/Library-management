@@ -84,5 +84,3 @@ For questions or support, please contact:
 - GitHub: [PhucHungNanba](https://github.com/PhucHungNanba)  
 
 ---
-
-This version uses precise Markdown syntax with headings, lists, code blocks, and links for readability and professional appearance in your `README.md` file.
